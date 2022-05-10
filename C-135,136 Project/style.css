@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+
+#header
+{
+font-size:30px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.font
+{
+    font-family:cursive;
+}
+
+#start
+{
+    border-radius:5px;
+}
+
+#canvas
+{
+    border : 2px solid white;
+    border-radius: 10px;
+  box-shadow: 5px 5px 5px white;
+  margin-top: 133px;
+}
